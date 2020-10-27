@@ -1,0 +1,22 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "Mi calculadora udea",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jharpx10/lab3arquisoftware.git"
+  },
+  "keywords": [
+    "calculadora"
+  ],
+  "author": "jharpx10",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jharpx10/lab3arquisoftware/issues"
+  },
+  "homepage": "https://github.com/jharpx10/lab3arquisoftware#readme"
+}
