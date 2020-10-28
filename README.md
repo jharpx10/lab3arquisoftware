@@ -10,7 +10,7 @@ Including integration with Travis CI, Sonarqube (SonarCloud), Coveralls and Snyk
 
 ### Folders Structure
 
-In the folder `app` is located the main code of the app
+In the folder `app` is located the main code of the app   n
 
 In the folder `test` is located the unit tests
 
