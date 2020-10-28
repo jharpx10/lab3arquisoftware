@@ -3,7 +3,7 @@ const interface = require('readline-sync');
 
 var calculator = require('./app/calculator');
 const firstNumber = interface.question("Ingrese el primer número: ");
-const secondNumber = interface.question("Ingrese el segundo número: ");
+const secondNumber = interface.question("Ingrese l segundo número: ");
 
 var a = parseInt(firstNumber);
 var b = parseInt(secondNumber);
